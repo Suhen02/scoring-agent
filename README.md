@@ -27,7 +27,7 @@ Each candidate ends up with:
 ---
 
 ## Project Structure
-
+```
 genotek-ai-agent/
 ├── app/
 │   ├── main.py              # CLI entry point
@@ -53,7 +53,7 @@ genotek-ai-agent/
 ├── output/
 ├── Dockerfile
 └── requirements.txt
-
+```
 ---
 
 ## Scoring Logic
